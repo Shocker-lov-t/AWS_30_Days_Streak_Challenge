@@ -17,7 +17,7 @@ IAM roles are like IAM users, but they are intended to be assumed by anyone who 
 
 IAM can be used from the AWS Management Console, AWS CLI, and AWS SDK.
 
-
+<img src="https://labresources.whizlabs.com/2d53c05679d7f8b47165253d8e226165/12._introduction_to_amazon_s3.png">
 Task Details
 Sign into AWS Management Console.
 
