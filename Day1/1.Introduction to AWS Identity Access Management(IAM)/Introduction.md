@@ -18,12 +18,13 @@ The primary resources in IAM are users, groups, roles, policies, and identity pr
 IAM roles are like IAM users, but they are intended to be assumed by anyone who needs them, and they do not have any credentials associated with them.
 
 IAM can be used from the AWS Management Console, AWS CLI, and AWS SDK.
-
+<br>
+<strong>Architecture</strong><br>
 <img width="296" alt="image" src="https://github.com/Shocker-lov-t/AWS_30_Days_Streak_Challenge/assets/98687345/31f24e19-bf92-4cca-8747-dca5dee31dc5">
 <br>
 
-<u>Task Details</u>
-<br>
+<u><strong>Task Details</strong></u>
+<br><br>
 Sign into AWS Management Console.
 
 Create IAM Users.
