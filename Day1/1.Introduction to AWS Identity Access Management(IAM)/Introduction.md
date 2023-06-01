@@ -1,4 +1,4 @@
-What is IAM?
+<u>What is IAM?</u>
 Stands for Identity and Access Management.
 
 IAM is a web service in AWS that helps manage user access to AWS resources.
@@ -17,8 +17,10 @@ IAM roles are like IAM users, but they are intended to be assumed by anyone who 
 
 IAM can be used from the AWS Management Console, AWS CLI, and AWS SDK.
 
-<img src="https://github.com/Shocker-lov-t/AWS_30_Days_Streak_Challenge/blob/0583f2507795066c412cd7872e6de32f7a1ca6cb/Images/1i.png">
-Task Details
+<img width="296" alt="image" src="https://github.com/Shocker-lov-t/AWS_30_Days_Streak_Challenge/assets/98687345/31f24e19-bf92-4cca-8747-dca5dee31dc5">
+
+
+<u>Task Details</u>
 Sign into AWS Management Console.
 
 Create IAM Users.
